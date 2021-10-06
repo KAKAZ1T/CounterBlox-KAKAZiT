@@ -1,0 +1,2 @@
+# CounterBlox-KAKAZiT
+loadstring(game:HttpGet("https://pastebin.com/raw/QJ0ym0UG", true))()
